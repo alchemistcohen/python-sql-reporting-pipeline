@@ -51,3 +51,5 @@ Raw Data (CSV Files)
    ```bash
    git clone [https://github.com/alchemistcohen/python-sql-reporting-pipeline.git](https://github.com/alchemistcohen/python-sql-reporting-pipeline.git)
    cd python-sql-reporting-pipeline
+
+    ![Dashboard Preview](dashboard_preview.png
