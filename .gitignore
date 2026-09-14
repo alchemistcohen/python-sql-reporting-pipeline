@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuración local de VS Code
+.vscode/
+
+
+company_warehouse.db
