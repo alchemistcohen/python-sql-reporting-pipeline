@@ -43,7 +43,7 @@ Raw Data (CSV Files)
    - Developed custom DAX measures for core KPIs (`Total Revenue`, `Avg Ticket`, `Profit Margin %`).
    - Interactive executive reporting interface with dynamic slicing capability.
 
--- ![Dashboard Preview](dashboard_preview.png
+-- ![Dashboard Preview](dashboard_preview.png)
 
 ## How to Run This Project Locally
 
