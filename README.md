@@ -43,7 +43,7 @@ Raw Data (CSV Files)
    - Developed custom DAX measures for core KPIs (`Total Revenue`, `Avg Ticket`, `Profit Margin %`).
    - Interactive executive reporting interface with dynamic slicing capability.
 
----
+-- ![Dashboard Preview](dashboard_preview.png
 
 ## How to Run This Project Locally
 
@@ -52,4 +52,4 @@ Raw Data (CSV Files)
    git clone [https://github.com/alchemistcohen/python-sql-reporting-pipeline.git](https://github.com/alchemistcohen/python-sql-reporting-pipeline.git)
    cd python-sql-reporting-pipeline
 
-    ![Dashboard Preview](dashboard_preview.png
+   
